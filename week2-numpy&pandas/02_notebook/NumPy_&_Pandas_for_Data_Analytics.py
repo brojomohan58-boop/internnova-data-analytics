@@ -185,7 +185,7 @@ print("Describe:\n", df.describe())
 
 # 3. Handle missing values
 print("Missing values before cleaning:\n", df.isnull().sum())
-df["age"] = df["age"].fillna(df["age"].mean())
+df["age"] = df["age"].fillna(df["age"].mean()).round().astype(int)
 df["salary"] = df["salary"].fillna(df["salary"].median())
 print("Missing values after cleaning:\n", df.isnull().sum())
 
