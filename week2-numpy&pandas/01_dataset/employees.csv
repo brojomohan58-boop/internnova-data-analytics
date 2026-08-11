@@ -1,0 +1,16 @@
+emp_id,name,department,age,salary,city,join_year
+101,Aarav Sharma,Sales,29,42000,Kolkata,2021
+102,Priya Nair,Marketing,34,55000,Mumbai,2019
+103,Rohan Das,Sales,26,,Kolkata,2022
+104,Sneha Roy,IT,31,68000,Bangalore,2020
+105,Karan Mehta,IT,,72000,Bangalore,2018
+106,Anjali Gupta,Marketing,28,51000,Delhi,2021
+107,Vikram Singh,Sales,45,,Mumbai,2015
+108,Neha Verma,IT,27,65000,Bangalore,2022
+109,Arjun Reddy,Finance,38,60000,Chennai,2017
+110,Divya Iyer,Finance,,58000,Chennai,2019
+111,Rahul Kapoor,Sales,33,47000,Kolkata,2020
+112,Pooja Bansal,Marketing,,53000,Delhi,2021
+113,Manish Yadav,IT,29,,Bangalore,2020
+114,Kavita Joshi,Finance,41,63000,Chennai,2016
+115,Suresh Pillai,Sales,36,49000,Mumbai,2018
