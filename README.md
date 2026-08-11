@@ -32,6 +32,17 @@ The repository will be updated progressively as I complete additional internship
 
 ---
 
+# 📈 Internship Progress
+
+| Week | Focus Area | Status |
+|------|------------|--------|
+| Week 1 | Python Fundamentals for Data Analytics | ✅ Completed |
+| Week 2 | NumPy & Pandas for Data Analytics | ✅ Completed |
+| Week 3 | Upcoming | ⏳ In Progress |
+| Week 4 | Upcoming | ⏳ Upcoming |
+
+---
+
 # 🐍 Week 1 — Python Fundamentals for Data Analytics
 
 ### Goal
@@ -213,17 +224,6 @@ InternNova-Data-Analytics/
 ```
 
 This structure keeps the **datasets, source code, notebooks, outputs, and reports** organized and easy to review.
-
----
-
-# 📈 Internship Progress
-
-| Week | Focus Area | Status |
-|------|------------|--------|
-| Week 1 | Python Fundamentals for Data Analytics | ✅ Completed |
-| Week 2 | NumPy & Pandas for Data Analytics | ✅ Completed |
-| Week 3 | Upcoming | ⏳ In Progress |
-| Week 4 | Upcoming | ⏳ Upcoming |
 
 ---
 
