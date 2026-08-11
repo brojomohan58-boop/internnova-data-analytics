@@ -1,118 +1,48 @@
-# 🐍 Python Fundamentals for Data Analytics
+# 📊 InternNova Data Analytics Internship
 
-> **Week 1 Assignment – InternNova Data Analytics Internship**
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Analysis-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![GitHub](https://img.shields.io/badge/Project-GitHub-black?logo=github)
 
-This repository contains my **Week 1 assignment** for the **InternNova Data Analytics Internship**, focusing on the fundamentals of Python for Data Analytics. The assignment covers essential Python programming concepts through practical coding exercises and a mini project.
+This repository contains my work and projects completed as part of the **InternNova Data Analytics Internship**.
+
+The internship focuses on developing practical skills in **Python programming, NumPy, Pandas, data manipulation, data cleaning, exploratory data analysis, and analytical problem-solving** through structured weekly assignments.
 
 ---
 
-## 📌 Objective
+## 👨‍💻 About Me
 
-The objective of this assignment is to build a strong foundation in Python programming for Data Analytics by learning:
+**Name:** Brojo Mohan Dutta  
+**Education:** B.Sc. Honours in Mathematics  
+**Career Goal:** Data Analyst  
 
-- Python Basics
-- Variables & Data Types
+I am building my data analytics skills through hands-on projects and internship assignments, with a focus on Python, SQL, Excel, Power BI, Tableau, NumPy, Pandas, and data-driven problem solving.
+
+---
+
+# 📚 Internship Progress
+
+| Week | Topic | Status |
+|------|-------|--------|
+| Week 1 | Python Fundamentals for Data Analytics | ✅ Completed |
+| Week 2 | NumPy & Pandas for Data Analytics | ✅ Completed |
+
+---
+
+# 🐍 Week 1 — Python Fundamentals for Data Analytics
+
+### 🎯 Objective
+
+The Week 1 assignment focused on building a strong foundation in Python programming for Data Analytics.
+
+The assignment covered:
+
+- Python basics
+- Variables and data types
 - Operators
-- Conditional Statements
-- Loops
-- Functions
-- Strings & Collections
-- File Handling
-- Mini Python Project
-
----
-
-## 📂 Repository Structure
-
-```text
-📦 internnova-python-fundamentals
-│
-├── Python_Fundamentals_for_Data_Analytics.py
-├── Python_Fundamentals_for_Data_Analytics.ipynb
-├── Week1_Python_Fundamentals_Report.pdf
-├── Week1_Python_Fundamentals_Report.docx
-└── README.md
-```
-
----
-
-## 📚 Tasks Completed
-
-### ✅ Task 1 – Python Basics
-- Printed a welcome message
-- Accepted user input
-- Displayed formatted student information
-
-### ✅ Task 2 – Variables & Data Types
-- Integer
-- Float
-- String
-- Boolean
-- Displayed data types using `type()`
-
-### ✅ Task 3 – Operators
-Developed a calculator program to perform:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-
-### ✅ Task 4 – Conditional Statements
-Implemented a grade calculator using:
-- `if`
-- `elif`
-- `else`
-
-### ✅ Task 5 – Loops
-Demonstrated:
-- `for` loop
-- `while` loop
-- Multiplication table generation
-- Even numbers from 1–50
-
-### ✅ Task 6 – Functions
-Created user-defined functions to:
-- Calculate the square of a number
-- Calculate the average of three numbers
-
-### ✅ Task 7 – Strings & Collections
-Worked with:
-- String methods
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-
-### ✅ Task 8 – Basic File Handling
-- Created a text file
-- Wrote data into the file
-- Read and displayed file contents
-
-### ✅ Task 9 – Mini Python Project
-Developed a **Student Record Management System** with features to:
-- Add student records
-- Display all records
-- Search students by name
-- Delete student records
-
----
-
-## 🛠️ Technologies Used
-
-- Python 3
-- Jupyter Notebook
-- Visual Studio Code
-
----
-
-## 📖 Key Python Concepts
-
-- Variables
-- Data Types
-- User Input
-- Arithmetic Operators
-- Conditional Statements
+- Conditional statements
 - Loops
 - Functions
 - Strings
@@ -120,48 +50,16 @@ Developed a **Student Record Management System** with features to:
 - Tuples
 - Dictionaries
 - Sets
-- File Handling
+- File handling
+- Mini Python project
 
 ---
 
-## 📄 Report
+## 📂 Week 1 Repository Structure
 
-The repository includes a detailed report containing:
-
-- Task-wise explanation
-- Python source code
-- Output screenshots
-- Mini project documentation
-
----
-
-## 🚀 Learning Outcomes
-
-Through this assignment, I gained practical experience in:
-
-- Writing structured Python programs
-- Solving basic programming problems
-- Working with Python collections
-- Creating reusable functions
-- Reading and writing files
-- Building a simple menu-driven application
-
----
-
-## 👨‍💻 Author
-
-**Brojo Mohan Dutta**
-
-- 🎓 B.Sc. (Hons.) Mathematics
-- 📊 Aspiring Data Analyst
-- 🐍 Python | SQL | Power BI | Tableau | Excel
-
----
-
-## ⭐ Acknowledgement
-
-This project was completed as part of the **InternNova Data Analytics Internship – Week 1 Assignment** to strengthen Python programming fundamentals for data analytics.
-
----
-
-### 🌟 If you found this repository useful, consider giving it a ⭐!
+```text
+week1-python-fundamentals/
+│
+├── Python_Fundamentals_for_Data_Analytics.ipynb
+├── Python_Fundamentals_for_Data_Analytics.py
+└── Python_Fundamentals_for_Data_Analytics_Report.docx
