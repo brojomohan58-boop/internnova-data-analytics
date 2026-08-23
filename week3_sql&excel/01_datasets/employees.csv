@@ -1,0 +1,13 @@
+emp_id,name,department_id,age,salary,city,join_year
+E004,Sneha Roy,103,31,68000.0,Bangalore,2020
+E008,Neha Verma,103,27,65000.0,Bangalore,2022
+E005,Karan Mehta,103,40,72000.0,Bangalore,2018
+E010,Divya Iyer,104,35,58000.0,Chennai,2019
+E009,Arjun Reddy,104,38,60000.0,Chennai,2017
+E006,Anjali Gupta,102,28,51000.0,Delhi,2021
+E012,Pooja Bansal,999,30,53000.0,Delhi,2021
+E001,Aarav Sharma,101,29,42000.0,Kolkata,2021
+E011,Rahul Kapoor,101,33,47000.0,Kolkata,2020
+E003,Rohan Das,101,26,39000.0,Kolkata,2022
+E002,Priya Nair,102,34,55000.0,Mumbai,2019
+E007,Vikram Singh,101,45,58000.0,Mumbai,2015
