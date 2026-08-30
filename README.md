@@ -39,7 +39,7 @@ The repository will be updated progressively as I complete additional internship
 | Week 1 | Python Fundamentals for Data Analytics | ✅ Completed |
 | Week 2 | NumPy & Pandas for Data Analytics | ✅ Completed |
 | Week 3 | SQL & Excel for Data Analytics | ✅ Completed |
-| Week 4 | Upcoming | ⏳ Upcoming |
+| Week 4 | Statistics, Data Visualization & Exploratory Data Analysis | ✅ Completed |
 | Week 5 | Upcoming | ⏳ Upcoming |
 | Week 6 | Upcoming | ⏳ Upcoming |
 ---
@@ -76,9 +76,12 @@ The project demonstrates basic record-management functionality such as adding, d
 ```text
 week1-python-fundamentals/
 │
-├── Python_Fundamentals_for_Data_Analytics.ipynb
-├── Python_Fundamentals_for_Data_Analytics.py
-└── Python_Fundamentals_for_Data_Analytics_Report.docx
+├── 01_notebook/
+│   ├── Python_Fundamentals_for_Data_Analytics.ipynb
+│   └── Python_Fundamentals_for_Data_Analytics.py
+│
+└── 02_report/
+    └── Python_Fundamentals_for_Data_Analytics_Report.docx
 ```
 
 ---
@@ -264,6 +267,141 @@ week3_sql&excel/
     └── SQL_&_Excel_for_Data_Analytics_Report.pdf
 ```
 
+
+---
+
+# 📊 Week 4 — Statistics, Data Visualization & Exploratory Data Analysis
+
+### Goal
+
+The objective of Week 4 was to develop practical skills in **Statistics, Data Visualization, and Exploratory Data Analysis (EDA)**.
+
+The assignment focused on applying statistical concepts, performing data cleaning and exploratory analysis, detecting patterns and outliers, creating meaningful visualizations, and generating data-driven insights and business recommendations.
+
+### Dataset
+
+The Week 4 assignment uses a sales dataset:
+
+- `sales_data.csv` — dataset used for statistical analysis, visualization, and exploratory data analysis.
+
+### Statistical Analysis
+
+The assignment involved applying fundamental statistical concepts to understand the characteristics and distribution of the data.
+
+### Key Statistical Areas Covered
+
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
+- Correlation Analysis
+- Probability Basics
+- Outlier Detection
+
+These statistical techniques helped in understanding the central tendency, variability, relationships, and unusual observations within the dataset.
+
+### Data Visualization
+
+The assignment included creating multiple visualizations using **Matplotlib** and **Seaborn** to explore patterns and relationships in the data.
+
+### Matplotlib Visualizations
+
+- Line Chart
+- Bar Chart
+- Pie Chart
+- Histogram
+- Scatter Plot
+
+### Seaborn Visualizations
+
+- Count Plot
+- Box Plot
+- Heatmap
+- Pair Plot
+
+These visualizations helped transform raw data into meaningful graphical insights and supported the exploratory analysis process.
+
+### Exploratory Data Analysis (EDA)
+
+The EDA process involved inspecting, cleaning, and analyzing the dataset to identify important patterns and relationships.
+
+### Data Inspection & Cleaning
+
+The analysis included:
+
+- Checking dataset dimensions
+- Inspecting column names
+- Checking data types
+- Generating statistical summaries
+- Identifying missing values
+- Handling missing values
+- Checking duplicate records
+- Removing duplicates where necessary
+- Identifying inconsistent values
+- Comparing data before and after cleaning
+
+### Correlation & Insights
+
+The dataset was further analyzed to:
+
+- Identify correlations between numerical variables
+- Explore important relationships
+- Detect patterns and trends
+- Identify potential outliers
+- Generate meaningful insights using visualizations
+
+### Business Recommendations
+
+Based on the exploratory data analysis and findings, data-driven business recommendations were developed to demonstrate how analytical insights can support better decision-making.
+
+### Analytical Workflow
+
+```text
+Raw Sales Dataset
+       ↓
+Data Inspection
+       ↓
+Data Cleaning
+       ↓
+Statistical Analysis
+       ↓
+Outlier Detection
+       ↓
+Data Visualization
+       ↓
+Correlation Analysis
+       ↓
+Exploratory Data Analysis
+       ↓
+Insights
+       ↓
+Business Recommendations
+       ↓
+Final Report
+
+```
+
+### Week 4 Files
+
+```text
+week4_statistics_data_visualization&eda/
+│
+├── 01_dataset/
+│   └── sales_data.csv
+│
+├── 02_notebook/
+│   ├── Statistics_Data_Visualization&Exploratory_Data_Analysis.ipynb
+│   └── Statistics_Data_Visualization&Exploratory_Data_Analysis.py
+│
+├── 03_output/
+│   ├── 01_cleaned_data/
+│   └── 02_visualizations/
+│
+└── 04_report/
+    └── Statistics_Data_Visualization&Exploratory_Data_Analysis_Report.pdf
+```
+
 ### Learning Outcome
 
 Through Week 3, I gained practical experience in combining **SQL-based data querying** with **Excel-based data analysis**.
@@ -348,18 +486,21 @@ InternNova-Data-Analytics/
 ├── week2-numpy&pandas/
 │
 ├── week3_sql&excel/
+│
+├── week4_statistics_data_visualization&eda/
 │   ├── 01_datasets/
-│   │   ├── departments.csv
-│   │   └── employees.csv
+│   │   └── sales_data.csv
 │   │
-│   ├── 02_sql/
-│   │   └── SQL_&_Excel_for_Data_Analytics.sql
+│   ├── 02_notebook/
+│   │   ├── Statistics_Data_Visualization&Exploratory_Data_Analysis.ipynb
+│   │   └── Statistics_Data_Visualization&Exploratory_Data_Analysis.py
 │   │
-│   ├── 03_excel_file/
-│   │   └── Excel_Assignment.xlsx
+│   ├── 03_output/
+│   │   ├── 01_cleaned_data/
+│   │   └── 02_visualizations/
 │   │
 │   └── 04_report/
-│       └── SQL_&_Excel_for_Data_Analytics_Report.pdf
+│       └── Statistics_Data_Visualization&Exploratory_Data_Analysis_Report.pdf
 │
 └── .gitignore
 ```
